@@ -1,24 +1,17 @@
 {
   "games": [
     {
-      "id": "cyberpunk_dog",
-      "name": "CyberPunk Dog Adventures",
-      "description": "Самая атмосферная пиксельная гонка с собаками в неоновом городе",
+      "id": "1",
+      "name": "64 BIT",
+      "description": "One publish my game",
       "gdrive_id": "1ld5qSz0joFLGqOcG5RZ51YoDk-TSnG5-",
       "icon_url": "https://i.imgur.com/ваш_ид_картинки.png",
       "exe": "CyberDog.exe"
     },
+
     {
-      "id": "cyberpunk_dog12312",
-      "name": "CyberPunk Dog Adventures",
-      "description": "Самая атмосферная пиксельная гонка с собаками в неоновом городе",
-      "gdrive_id": "1ld5qSz0joFLGqOcG5RZ51YoDk-TSnG5-",
-      "icon_url": "https://i.imgur.com/ваш_ид_картинки.png",
-      "exe": "CyberDog.exe"
-    },
-    {
-      "id": "space_shooter",
-      "name": "Space Blaster 3000",
+      "id": "space_sooter",
+      "name": "Space Blaster 000",
       "description": "Классический шутер в космосе",
       "gdrive_id": "1ДРУГОЙ_ID_ЗДЕСЬ",
       "icon_url": "https://example.com/space_icon_128.png",
