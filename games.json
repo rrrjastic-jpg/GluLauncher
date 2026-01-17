@@ -15,6 +15,14 @@
       "gdrive_id": "1ld5qSz0joFLGqOcG5RZ51YoDk-TSnG5-",
       "icon_url": "https://i.imgur.com/ваш_ид_картинки.png",
       "exe": "CyberDog.exe"
+    },
+    {
+      "id": "3",
+      "name": "TEST",
+      "description": "Two publish my game",
+      "gdrive_id": "1ld5qSz0joFLGqOcG5RZ51YoDk-TSnG5-",
+      "icon_url": "https://i.imgur.com/ваш_ид_картинки.png",
+      "exe": "CyberDog.exe"
     }
   ]
 }
