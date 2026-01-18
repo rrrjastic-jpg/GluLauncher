@@ -3,11 +3,14 @@
     {
       "id": "1",
       "name": "64 BIT",
-      "description": "The advertisement piqued your interest, and you decide to take part in an experiment designed to test human memory.",
+      "description": "The advertisement piqued your interest...",
       "gdrive_id": "1-h1a5ezFp_M2V-Ifl9CEiKXqtYMm1Yzf",
       "icon_url": "https://image2url.com/r2/default/images/1768723991903-a77a2eb6-fbeb-4437-8ea4-35f9c7a07b3a.png",
       "poster_url": "https://image2url.com/r2/default/images/1768723328024-64ff5fb0-739d-4c44-8de1-f97fe0960fe1.png",
-      "screenshots": [],
+      "screenshots": [
+        "https://image2url.com/r2/default/images/shot1.png",
+        "https://image2url.com/r2/default/images/shot2.png"
+      ],
       "exe": "64 BIT.exe",
       "requires_key": false,
       "age_rating": "16+",
